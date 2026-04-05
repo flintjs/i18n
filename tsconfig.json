@@ -5,6 +5,7 @@
         "rootDir": "src",
         "composite": true
     },
+    "types": ["node", "ms"],
     "include": ["src/**/*"],
     "references": [
         { "path": "../core" }

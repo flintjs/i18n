@@ -25,6 +25,7 @@
         "flint-i18n": "./dist/generate.js"
     },
     "scripts": {
+        "prepare": "tsc -b",
         "build": "tsc -b"
     },
     "keywords": [
